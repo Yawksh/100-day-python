@@ -1,10 +1,9 @@
 
 import random
 introduce="Hello my name is yawkal i am software engineer"
-# intro=introduce.split(',')
-# list1=[]
-# list1.append(intro)
-# print(intro)
+intro=introduce.split(',')
+list1=[]
+list1.append(intro) print(intro)
 # namearray=[]
 # names=input("enter the name of the buyers").split()
 # name="hello guys how are you doing?".split()
