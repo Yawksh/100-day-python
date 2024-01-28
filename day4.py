@@ -1,6 +1,6 @@
 
 import random
-# introduce="Hello my name is yawkal i am software engineer"
+introduce="Hello my name is yawkal i am software engineer"
 # intro=introduce.split(',')
 # list1=[]
 # list1.append(intro)
