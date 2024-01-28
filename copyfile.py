@@ -8,9 +8,10 @@ import os
 source="x.txt"
 destination="abcd\\z.txt"
 try:
+    
     if os.path.exists(destination):
-        os.replace(source, destination)
-        print("there is already an file there")
+            os.replace(source, destination)
+            print("there is already an file there")
     else:
         os.replace(source,destination)
 except FileNotFoundError:
