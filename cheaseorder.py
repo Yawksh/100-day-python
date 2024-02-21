@@ -5,4 +5,5 @@ do:
    if size=='s':
      bill=15
     elif size=='l':
+       
     bill=25
